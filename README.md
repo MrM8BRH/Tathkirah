@@ -14,4 +14,11 @@
 <a href="https://techforpalestine.org/">
 <img src="https://badge.techforpalestine.org/default">
 </a>
+
+
+<br>
+<br>
+<br>
+<p><b><a href="https://start.me/p/gG7rbp/islamic-resources">Start Page Link</a></b></p>
+
 </div>
